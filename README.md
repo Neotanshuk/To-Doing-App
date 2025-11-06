@@ -78,5 +78,5 @@ cd To-Doing-WebApp
 
 
 ## **Contact**
-**Rohith Potana**  
-Email: 
+**Uditanshu Kamal**  
+Email: neotanshuk@gmail.com
